@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer from Argentina</h3>
 <img src="https://www.steadyrain.com/portals/0/Images/Digital%20Clarity/lamp-stack-vs-jamstack-banner.jpg"/>
 
-- 📫 How to reach me **alejandrojuka2@gmail.com**
+- 📫 How to reach me **alejandrojuka2@gmail.com** or by Phone +54 9 3794695375
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
