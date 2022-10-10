@@ -1,7 +1,4 @@
-### Hi , im Alejandro Juka 👋
 
-![lamp-stack-vs-jamstack-banner](https://user-images.githubusercontent.com/105460077/194962916-cb8d34a3-de67-4ae7-8d3f-b7bd912d1e59.jpg)
-<!--
 <h1 align="center">Hi 👋, I'm Alejandro Juka</h1>
 <h3 align="center">Full Stack Developer from Argentina</h3>
 
