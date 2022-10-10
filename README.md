@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Alejandro Juka</h1>
 <h3 align="center">Full Stack Developer from Argentina</h3>
-<img src="![lamp-stack-vs-jamstack-banner](https://user-images.githubusercontent.com/105460077/194962916-cb8d34a3-de67-4ae7-8d3f-b7bd912d1e59.jpg)"/>
+<img src="https://www.steadyrain.com/portals/0/Images/Digital%20Clarity/lamp-stack-vs-jamstack-banner.jpg"/>
 
 - 📫 How to reach me **alejandrojuka2@gmail.com**
 
