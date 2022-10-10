@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi , im Alejandro Juka 👋
 
+![lamp-stack-vs-jamstack-banner](https://user-images.githubusercontent.com/105460077/194962916-cb8d34a3-de67-4ae7-8d3f-b7bd912d1e59.jpg)
 <!--
 **Alejandrojuka32/Alejandrojuka32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
