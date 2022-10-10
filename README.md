@@ -1,12 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Alejandro Juka</h1>
 <h3 align="center">Full Stack Developer from Argentina</h3>
+<img src="![lamp-stack-vs-jamstack-banner](https://user-images.githubusercontent.com/105460077/194962916-cb8d34a3-de67-4ae7-8d3f-b7bd912d1e59.jpg)"/>
 
 - 📫 How to reach me **alejandrojuka2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alejandro juka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro juka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alejandro-juka-a20846243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro juka" height="30" width="40" /></a>
 <a href="https://fb.com/alejandro juka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alejandro juka" height="30" width="40" /></a>
 <a href="https://instagram.com/alejandrojuka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejandrojuka_" height="30" width="40" /></a>
 </p>
