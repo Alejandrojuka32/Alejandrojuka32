@@ -13,7 +13,11 @@ From 2022 I continued with my studies at Henry, where I was able to reinforce ev
 🧐Today I am looking for a job where I can apply what I have learned, in addition to knowing new tools and strategies when developing web pages.</h4>
 <img src="https://www.steadyrain.com/portals/0/Images/Digital%20Clarity/lamp-stack-vs-jamstack-banner.jpg"/>
 
-- 📫 How to reach me **alejandrojuka2@gmail.com** or by Phone +54 9 3794695375
+- 📫 How to reach me :
+- <br/>
+- 📧email: **alejandrojuka2@gmail.com**
+- <br/>
+- 📳Phone +54 9 3794695375
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
