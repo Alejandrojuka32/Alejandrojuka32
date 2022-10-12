@@ -3,6 +3,9 @@
 <h3 align="center">Full Stack Developer from Argentina</h3>
 <h4>😊I have been studying web development since 2021 starting with courses such as argentina program or coderhouse since then I have been educating myself to a greater extent in certain languages such as javasscript, java and ruby.
 <br/>
+  <br/>
+ After these courses I got excited about web development and I wanted to take it one step further, take it to the workplace and learn how pages are developed from a company
+  <br/>
 <br/>
 From 2022 I continued with my studies at Henry, where I was able to reinforce everything I learned in addition to knowing and apply many new technologies, which I use in my latest outstanding projects.
 <br/>
