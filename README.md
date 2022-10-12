@@ -14,9 +14,7 @@ From 2022 I continued with my studies at Henry, where I was able to reinforce ev
 <img src="https://www.steadyrain.com/portals/0/Images/Digital%20Clarity/lamp-stack-vs-jamstack-banner.jpg"/>
 
 - 📫 How to reach me :
-- <br/>
 - 📧email: **alejandrojuka2@gmail.com**
-- <br/>
 - 📳Phone +54 9 3794695375
 
 <h3 align="left">Connect with me:</h3>
